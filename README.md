@@ -17,12 +17,14 @@ Utilizing LLM, particularly GPT-4, we explore how language models can aid in dec
 factor including prompt engineering techniques and environment encoding methods.
 
 One Example: GPT-4-turbo with ToT prompting and location encoding
+
 ![GPT-4-turbo with ToT prompting and location encoding](https://github.com/XO-Appleton/RL-LLM-Optimality-Research/blob/main/outputs/gpt_4_tot_location_encoded.gif?raw=true)
 
 ## Langchain ReAct Agent: 
 We integrate Langchain, a tool for combining LLMs with decision-making processes, to build an agent with enhanced problem solving capabilities.
 
 It is also the only approach that successfully achieved the objective and demonstrated some interesting capabilities of problem solving such as taking contours and logical reasoning:
+
 ![GPT-4-turbo ReAct Agent](https://github.com/XO-Appleton/RL-LLM-Optimality-Research/blob/main/outputs/gpt_4_ReAcT_Agent.gif?raw=true)
 
 ## Foundings
