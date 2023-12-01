@@ -1,6 +1,6 @@
 # Optimality Gap of LLM-based Agents in Gridworld Problem
 
-You can find the blog post on this project [here](https://medium.com/@yumo-bai/the-era-of-artificial-intelligence-6188bc09a14c)
+You can find the blog post on this project [here](https://medium.com/@yumo-bai/the-era-of-artificial-intelligence-6188bc09a14c).
 
 ## Introduction
 In this research project, we delve into the fascinating world of Reinforcement Learning (RL) by exploring a Taxi Gridworld problem. Our journey involves the use of advanced techniques like Large Language Models (LLM) and the Langchain library, showcasing how these tools can be leveraged to solve complex RL challenges.
